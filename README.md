@@ -5,7 +5,7 @@ I'm Fairuz, Trying new things is a very interesting challenge for me.
 👨🏻‍💻
 * NextJs
 * NodeJs
-* ReactJs
+* React
 * TailwindCss
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiiruz&show_icons=true&theme=radical)
